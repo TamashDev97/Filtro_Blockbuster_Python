@@ -1,0 +1,383 @@
+{
+    "A01": {
+        "id01" : "A01",
+        "nombre" : "Tom Hardy"
+    },
+
+    "A02": {
+        "id01" : "A02",
+        "nombre" : "Charlize Theron"
+    },
+
+    "A03": {
+        "id01" : "A03",
+        "nombre" : "Keanu Reeves"
+    },
+
+    "A04": {
+        "id01" : "A04",
+        "nombre" : "Bruce Willis"
+    },
+
+    "A05": {
+        "id01" : "A05",
+        "nombre" : "Alan Rickman"
+    },
+
+    "A06": {
+        "id01" : "A06",
+        "nombre" : "Laurence Fishburne"
+    },
+
+    "A07": {
+        "id01" : "A07",
+        "nombre" : "Carrie-Anne Moss"
+    },
+
+    "A08": {
+        "id01" : "A08",
+        "nombre" : "Hugo Weaving"
+    },
+
+    "A09": {
+        "id01" : "A09",
+        "nombre" : "Leonardo DiCaprio"
+    },
+
+    "A10": {
+        "id01" : "A10",
+        "nombre" : "Joseph Gordon-Levitt"
+    },
+
+    "A11": {
+        "id01" : "A11",
+        "nombre" : "Ellen Page"
+    },
+
+    "A12": {
+        "id01" : "A12",
+        "nombre" : "Elijah Wood"
+    },
+
+    "A13": {
+        "id01" : "A13",
+        "nombre" : "Ian McKellen"
+    },
+
+    "A14": {
+        "id01" : "A14",
+        "nombre" : "Viggo Mortensen"
+    },
+
+    "A15": {
+        "id01" : "A15",
+        "nombre" : "Harrison Ford"
+    },
+
+    "A17": {
+        "id01" : "A17",
+        "nombre" : "Johnny Depp"
+    },
+
+    "A18": {
+        "id01" : "A18",
+        "nombre" : "Orlando Bloom"
+    },
+
+    "A19": {
+        "id01" : "A19",
+        "nombre" : "Keira Knightley"
+    },
+
+    "A20": {
+        "id01" : "A20",
+        "nombre" : "Sam Neill"
+    },
+
+    "A21": {
+        "id01" : "A21",
+        "nombre" : "Laura Dern"
+    },
+
+    "A22": {
+        "id01" : "A22",
+        "nombre" : "Jeff Goldblum"
+    },
+
+    "A23": {
+        "id01" : "A23",
+        "nombre" : "Ralph Fiennes"
+    },
+
+    "A24": {
+        "id01" : "A24",
+        "nombre" : "Tony Revolori"
+    },
+
+    "A25": {
+        "id01" : "A25",
+        "nombre" : "Jonah Hill"
+    },
+
+    "A26": {
+        "id01" : "A26",
+        "nombre" : "Michael Cera"
+    },
+
+    "A27": {
+        "id01" : "A27",
+        "nombre" : "Christopher Mintz-Plasse"
+    },
+
+    "A28": {
+        "id01" : "A28",
+        "nombre" : "Bradley Cooper"
+    },
+
+    "A29": {
+        "id01" : "A29",
+        "nombre" : "Ed Helms"
+    },
+
+    "A30": {
+        "id01" : "A30",
+        "nombre" : "Zach Galifianakis"
+    },
+
+    "A31": {
+        "id01" : "A31",
+        "nombre" : "Will Ferrell"
+    },
+
+    "A32": {
+        "id01" : "A32",
+        "nombre" : "Christina Applegate"
+    },
+
+    "A33": {
+        "id01" : "A33",
+        "nombre" : "Paul Rudd"
+    },
+
+    "A34": {
+        "id01" : "A34",
+        "nombre" : "Kristen Wiig"
+    },
+
+    "A35": {
+        "id01" : "A35",
+        "nombre" : "Maya Rudolph"
+    },
+
+    "A36": {
+        "id01" : "A36",
+        "nombre" : "Melissa McCarthy"
+    },
+
+    "A37": {
+        "id01" : "A37",
+        "nombre" : "Brad Pitt"
+    },
+
+    "A38": {
+        "id01" : "A38",
+        "nombre" : "Morgan Freeman"
+    },
+
+    "A39": {
+        "id01" : "A39",
+        "nombre" : "Kevin Spacey"
+    },
+
+    "A40": {
+        "id01" : "A40",
+        "nombre" : "Jodie Foster"
+    },
+
+    "A41": {
+        "id01" : "A41",
+        "nombre" : "Anthony Hopkins"
+    },
+
+    "A42": {
+        "id01" : "A42",
+        "nombre" : "Ben Affleck"
+    },
+
+    "A43": {
+        "id01" : "A43",
+        "nombre" : "Rosamund Pike"
+    },
+
+    "A44": {
+        "id01" : "A44",
+        "nombre" : "Mark Ruffalo"
+    },
+
+    "A45": {
+        "id01" : "A45",
+        "nombre" : "Hugh Jackman"
+    },
+
+    "A46": {
+        "id01" : "A46",
+        "nombre" : "Jake Gyllenhaal"
+    },
+
+    "A47": {
+        "id01" : "A47",
+        "nombre" : "Viola Davis"
+    },
+
+    "A48": {
+        "id01" : "A48",
+        "nombre" : "Ellen Burstyn"
+    },
+
+    "A49": {
+        "id01" : "A49",
+        "nombre" : "Max von Sydow"
+    },
+
+    "A50": {
+        "id01" : "A50",
+        "nombre" : "Linda Blair"
+    },
+
+    "A51": {
+        "id01" : "A51",
+        "nombre" : "Jack Nicholson"
+    },
+
+    "A52": {
+        "id01" : "A52",
+        "nombre" : "Shelley Duvall"
+    },
+
+    "A53": {
+        "id01" : "A53",
+        "nombre" : "Anthony Perkins"
+    },
+
+    "A54": {
+        "id01" : "A54",
+        "nombre" : "Janet Leigh"
+    },
+
+    "A55": {
+        "id01" : "A55",
+        "nombre" : "Daniel Kaluuya"
+    },
+
+    "A56": {
+        "id01" : "A56",
+        "nombre" : "Allison Williams"
+    },
+
+    "A57": {
+        "id01" : "A57",
+        "nombre" : "Heather Langenkamp"
+    },
+
+    "A58": {
+        "id01" : "A58",
+        "nombre" : "Robert Englund"
+    },
+
+    "A59": {
+        "id01" : "A59",
+        "nombre" : "Rutger Hauer"
+    },
+
+    "A60": {
+        "id01" : "A60",
+        "nombre" : "Sean Young"
+    },
+
+    "A61": {
+        "id01" : "A61",
+        "nombre" : "Laurence Fishburne"
+    },
+
+    "A62": {
+        "id01" : "A62",
+        "nombre" : "Carrie-Anne Moss"
+    },
+
+    "A63": {
+        "id01" : "A63",
+        "nombre" : "Joseph Gordon-Levitt"
+    },
+
+    "A64": {
+        "id01" : "A64",
+        "nombre" : "Ellen Page"
+    },
+
+    "A65": {
+        "id01" : "A65",
+        "nombre" : "Jim Carrey"
+    },
+
+    "A66": {
+        "id01" : "A66",
+        "nombre" : "Kate Winslet"
+    },
+
+    "A67": {
+        "id01" : "A67",
+        "nombre" : "Matthew McConaughey"
+    },
+
+    "A68": {
+        "id01" : "A68",
+        "nombre" : "Anne Hathaway"
+    },
+
+    "A69": {
+        "id01" : "A69",
+        "nombre" : "Ryan Gosling"
+    },
+
+    "A70": {
+        "id01" : "A70",
+        "nombre" : "Emma Stone"
+    },
+
+    "A71": {
+        "id01" : "A71",
+        "nombre" : "Julie Andrews"
+    },
+
+    "A72": {
+        "id01" : "A72",
+        "nombre" : "Christopher Plummer"
+    },
+
+    "A74": {
+        "id01" : "A74",
+        "nombre" : "Russell Crowe"
+    },
+
+    "A76": {
+        "id01" : "A76",
+        "nombre" : "Nicole Kidman"
+    },
+
+    "A78": {
+        "id01" : "A78",
+        "nombre" : "Natalie Wood"
+    },
+
+    "A79": {
+        "id01" : "A79",
+        "nombre" : "Richard Beymer"
+    },
+
+    "A80": {
+        "id01" : "A80",
+        "nombre" : "Rita Moreno"
+    }
+}
+
+

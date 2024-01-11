@@ -1,0 +1,13 @@
+{
+    "F01": {
+        "id_formato": "F01",
+        "name": "DVD"
+    
+    },
+
+    "F02": {
+        "id_formato": "F02",
+        "name": "Blu-Ray"
+    
+    }
+}

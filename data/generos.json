@@ -1,0 +1,58 @@
+[
+	{
+		"G01": {
+			"id_genero": "G01",
+			"name": "Acción"
+		}
+	},
+
+    {
+        "G02": {
+            "id_genero": "G02",
+            "name": "Aventura"
+        }
+    },
+
+    {
+        "G03": {
+            "id_genero": "G03",
+            "name": "Comedias"
+        }
+    },
+
+    {
+        "G04": {
+            "id_genero": "G04",
+            "name": "Suspenso"
+        }
+    },
+
+    {
+        "G05": {
+            "id_genero": "G05",
+            "name": "Terror"
+        }
+    },
+        
+    {
+        "G06": {
+            "id_genero": "G06",
+            "name": "Drama"
+        }
+    },
+
+    {
+        "G07": {
+            "id_genero": "G07",
+            "name": "Ciencia Ficción"
+        }
+    },
+        
+    {
+        "G08": {
+            "id_genero": "G08",
+            "name": "Musical"
+        }
+    }
+]
+

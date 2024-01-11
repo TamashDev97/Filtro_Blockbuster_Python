@@ -1,0 +1,411 @@
+{
+    "peliculas": {
+        "P01": {
+            "id_pelicula": "01",
+            "titulo": "Mad Max: Fury Road",
+            "duracion": "120",
+            "sinopsis": "En un mundo postapocalíptico, Max Rockatansky se une a Furiosa, una guerrera rebelde, en una frenética persecución a través del desierto. Juntos intentan escapar de un tirano cruel y liberar a un grupo de mujeres esclavizadas.",
+            "genero": {
+                "id_genero": "G01",
+                "nombre": "Acción"
+            },
+            "actores": {
+                "A01": {
+                    "id_actor": "A01",
+                    "nombre": "Tom",
+                    "apellido": "Hardy",
+                    "rol": "Max Rockatansky"
+                },
+                "A02": {
+                    "id_actor": "A02",
+                    "nombre": "Charlize",
+                    "apellido": "Theron",
+                    "rol": "Imperator Furiosa"
+                }
+            },
+                "formato": {
+                    "F01": {
+                        "id_formato": "F01",
+                        "nombre": "DVD",
+                        "precio_del_alquiler": "5000",
+                        "cantidad": "5"},
+                    "F02": {
+                        "id_formato": "F02",
+                        "nombre": "Blu-Ray",
+                        "precio_del_alquiler": "7000",
+                        "cantidad": "3"
+                    }
+            }
+        },
+        "P02": {
+            "id_pelicula": "02",
+            "titulo": "John Wick",
+            "duracion": "101",
+            "sinopsis": "John Wick es un exasesino a sueldo que se retira para vivir una vida tranquila con su perro. Todo se complica cuando un gángster le roba su coche y mata a su mascota, por lo que John busca venganza.",
+            "genero": {
+                "id_genero": "G02",
+                "nombre": "Acción"
+            },
+            "actores": {
+                "A03": {
+                    "id_actor": "A03",
+                    "nombre": "Keanu",
+                    "apellido": "Reeves",
+                    "rol": "John Wick"
+                },
+                "A04": {
+                    "id_actor": "A04",
+                    "nombre": "Michael",
+                    "apellido": "Nyqvist",
+                    "rol": "Viggo Tarasov"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+        }
+            }
+        },
+        "P03": {
+            "id_pelicula":"03",
+            "titulo": "Duro de Matar (Die Hard)",
+            "duracion": "132",
+            "sinopsis": "John McClane, un policía de Nueva York, intenta salvar a su esposa Holly Gennaro y a varios rehenes que son tomados por Hans Gruber durante una fiesta navideña en el edificio Nakatomi Plaza en Los Ángeles.",
+            "genero": {
+                "id_genero": "G03",
+                "nombre": "Acción"
+            },
+            "actores": {
+                "A05": {
+                    "id_actor": "A05",
+                    "nombre": "Bruce",
+                    "apellido": "Willis",
+                    "rol": "John McClane"
+                },
+                "A06": {
+                    "id_actor": "A06",
+                    "nombre": "Alan",
+                    "apellido": "Rickman",
+                    "rol": "Hans Gruber"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+        }
+        },
+        "P04": {
+            "id_pelicula":"04",
+            "titulo": "The Matrix",
+            "duracion": "136",
+            "sinopsis": "Thomas Anderson, un programador de software, es doblemente peligroso: además de ser un brillante informático, es Neo, un hacker que accede a los ordenadores para luchar contra el sistema y descubrir su secreto más oculto.",
+            "genero": {
+                "id_genero": "G04",
+                "nombre": "Ciencia Ficción"
+            },
+            "actores": {
+                "A07": {
+                    "id_actor": "A07",
+                    "nombre": "Keanu",
+                    "apellido": "Reeves",
+                    "rol": "Neo"
+                },
+                "A08": {
+                    "id_actor": "A08",
+                    "nombre": "Laurence",
+                    "apellido": "Fishburne",
+                    "rol": "Morpheus"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+            }
+        },
+        "P05":{
+            "id_pelicula":"05",
+            "titulo": "Inception",
+            "duracion": "148",
+            "sinopsis": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable.",
+            "genero": {
+                "id_genero": "G04",
+                "nombre": "Ciencia Ficción"
+            },
+            "actores": {
+                "A09": {
+                    "id_actor": "A09",
+                    "nombre": "Leonardo",
+                    "apellido": "DiCaprio",
+                    "rol": "Dom Cobb"
+                },
+                "A10": {
+                    "id_actor": "A10",
+                    "nombre": "Joseph",
+                    "apellido": "Gordon-Levitt",
+                    "rol": "Arthur"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+            }
+        },
+        "P06":{
+            "id_pelicula":"06",
+            "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+            "duracion": "178",
+            "sinopsis": "Un hobbit llamado Frodo Bolsón hereda un anillo mágico de su tío Bilbo. Desafortunadamente, el malvado Señor Oscuro Sauron se entera del anillo y envía a sus ejércitos para destruir a Frodo y recuperar el anillo.",
+            "genero": {
+                "id_genero": "G05",
+                "nombre": "Fantasía"
+            },
+            "actores": {
+                "A11": {
+                    "id_actor": "A11",
+                    "nombre": "Elijah",
+                    "apellido": "Wood",
+                    "rol": "Frodo Baggins"
+                },
+                "A12": {
+                    "id_actor": "A12",
+                    "nombre": "Ian",
+                    "apellido": "McKellen",
+                    "rol": "Gandalf"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+            }
+        },
+        "P07":{
+            "id_pelicula":"07",
+            "nombre": "Indiana Jones: Raiders of the Lost Ark",
+            "duracion": "115",
+            "sinopsis": "El arqueólogo y aventurero Indiana Jones se embarca en una misión para encontrar el Arca de la Alianza antes de que los nazis lo hagan. La película combina acción, humor y elementos sobrenaturales en una emocionante búsqueda arqueológica.",
+            "genero": {
+                "id_genero": "G06",
+                "nombre": "Aventura"
+            },
+            "actores": {
+                "A13": {
+                    "id_actor": "A13",
+                    "nombre": "Harrison",
+                    "apellido": "Ford",
+                    "rol": "Indiana Jones"
+                },
+                "A14": {
+                    "id_actor": "A14",
+                    "nombre": "Karen",
+                    "apellido": "Allen",
+                    "rol": "Marion Ravenwood"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+            }
+        },
+        "P08":{
+            "id_pelicula":"08",
+            "titulo":"Piratas del Caribe: La maldición de la perla negra",
+            "duracion": "143",
+            "sinopsis": "El capitán Jack Sparrow se embarca en una aventura para recuperar el barco de su rival, el Capitán Barbossa, y salvar a la hija del gobernador de Port Royal, Elizabeth Swann, a quien Barbossa secuestró para obtener un tesoro maldito.",
+            "genero": {
+                "id_genero": "G06",
+                "nombre": "Aventura"
+            },
+            "actores": {
+                "A15": {
+                    "id_actor": "A15",
+                    "nombre": "Johnny",
+                    "apellido": "Depp",
+                    "rol": "Jack Sparrow"
+                },
+                "A16": {
+                    "id_actor": "A16",
+                    "nombre": "Geoffrey",
+                    "apellido": "Rush",
+                    "rol": "Barbossa"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+            }
+        },
+        "P09":{
+            "id_pelicula":"09",
+            "titulo":"Jurassic Park",
+            "duracion": "127",
+            "sinopsis": "Un multimillonario construye un parque temático de dinosaurios en una isla remota. Pero las cosas salen mal y los dinosaurios escapan, creando estragos en el parque.",
+            "genero": {
+                "id_genero": "G07",
+                "nombre": "Terror"
+            },
+            "actores": {
+                "A17": {
+                    "id_actor": "A17",
+                    "nombre": "Sam",
+                    "apellido": "Neill",
+                    "rol": "Dr. Alan Grant"
+                },
+                "A18": {
+                    "id_actor": "A18",
+                    "nombre": "Laura",
+                    "apellido": "Dern",
+                    "rol": "Dr. Ellie Sattler"
+                }
+            },
+            "formato": {
+                "F01": {
+                    "id_formato": "F01",
+                    "nombre": "DVD",
+                    "precio_del_alquiler": "5000",
+                    "cantidad": "5"},
+                "F02": {
+                    "id_formato": "F02",
+                    "nombre": "Blu-Ray",
+                    "precio_del_alquiler": "7000",
+                    "cantidad": "3"
+                }
+            }
+    },
+    "P10":{
+        "id_pelicula":"10",
+        "titulo":"The Revenant",
+        "duracion": "156",
+        "sinopsis": "En 1823, un trampero de pieles estadounidense llamado Hugh Glass es atacado por un oso grizzly mientras caza en las llanuras de Misuri. Se le deja morir por sus compañeros y debe navegar por el desierto para sobrevivir.",
+        "genero": {
+            "id_genero": "G08",
+            "nombre": "Drama"
+        },
+        "actores": {
+            "A19": {
+                "id_actor": "A19",
+                "nombre": "Leonardo",
+                "apellido": "DiCaprio",
+                "rol": "Hugh Glass"
+            },
+            "A20": {
+                "id_actor": "A20",
+                "nombre": "Tom",
+                "apellido": "Hardy",
+                "rol": "John Fitzgerald"
+            }
+        },
+        "formato": {
+            "F01": {
+                "id_formato": "F01",
+                "nombre": "DVD",
+                "precio_del_alquiler": "5000",
+                "cantidad": "5"},
+            "F02": {
+                "id_formato": "F02",
+                "nombre": "Blu-Ray",
+                "precio_del_alquiler": "7000",
+                "cantidad": "3"
+            }
+        }
+    },
+    "P11":{
+        "id_pelicula":"11",
+        "titulo":"The Grand Budapest Hotel",
+        "duracion": "100",
+        "sinopsis": "El conserje de un famoso hotel europeo se hace amigo de un joven empleado y se convierte en su mentor. El conserje se involucra en el robo y la recuperación de una pintura renacentista, la batalla por una enorme fortuna familiar y la transformación de un hotel en ruinas en un lugar de gran prestigio.",
+        "genero": {
+            "id_genero": "G08",
+            "nombre": "Drama"
+        },
+        "actores": {
+            "A21": {
+                "id_actor": "A21",
+                "nombre": "Ralph",
+                "apellido": "Fiennes",
+                "rol": "M. Gustave"
+            },
+            "A22": {
+                "id_actor": "A22",
+                "nombre": "Tony",
+                "apellido": "Revolori",
+                "rol": "Zero Moustafa"
+            }
+        },
+        "formato": {
+            "F01": {
+                "id_formato": "F01",
+                "nombre": "DVD",
+                "precio_del_alquiler": "5000",
+                "cantidad": "5"},
+            "F02": {
+                "id_formato": "F02",
+                "nombre": "Blu-Ray",
+                "precio_del_alquiler": "7000",
+                "cantidad": "3"
+            }
+        }
+    }
+}
